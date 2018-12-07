@@ -1,8 +1,7 @@
 # 13 Contratos de gasto federalizado
 Información relevante sobre las contrataciones que hacen los gobiernos de las Entidades Federativas con el dinero que la Federación les entrega.
 
-## ¿Dónde están los datos?
-+ [csv] Contratos de Gasto Federalizado: https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Entidades_Federativas/reporte_de_contratos_ef.csv 
+El archivo de datos fue compreso con gzip, ya que el original mide más de 200 MB.
 
 ## ¿Qué campos contiene?
 ETIQUETA | Descripción 
@@ -84,7 +83,7 @@ FECHA_CONCLUSION_CONTRATO | Fecha en que deberá concluirse la provisión del se
 FECHA_CONCLUSION | En caso de que el contrato haya terminado, se deberá establecer la fecha en que éste concluyó.
 URL_DOCUMENTO | Campo en el que se establece la liga en internet donde es posible localizar el acta de recepción al haber concluido la obra por administración directa.
 
-Diccionario de Datos: https://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Diccionarios/diccionario_contratos_ef.xlsx
+
 
 ## ¿Quién otorga el dataset?
 Secretaría de Hacienda y Crédito Público
